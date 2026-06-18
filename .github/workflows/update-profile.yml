@@ -44,7 +44,7 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const username = 'chimataraghuram';
+            const username = 'arthimalla44';
             const { data: events } = await github.rest.activity.listPublicEventsForUser({
               username: username,
               per_page: 30
@@ -93,7 +93,7 @@ jobs:
             let contributionsContent = 'No external contributions found.';
             try {
               const { data: prData } = await github.rest.search.issuesAndPullRequests({
-                q: 'type:pr author:chimataraghuram -user:chimataraghuram'
+                 q: 'type:pr author:arthimalla44 -user:arthimalla44'
               });
               
               if (prData && prData.items && prData.items.length > 0) {
@@ -179,7 +179,7 @@ jobs:
             let achievements = [];
 
             try {
-              const response = await fetch('https://github.com/chimataraghuram?tab=achievements', { headers });
+              const response = await fetch('https://github.com/arthimalla44?tab=achievements', { headers });
               const html = await response.text();
 
               // Try multiple regex patterns for robustness across GitHub HTML changes
