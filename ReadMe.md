@@ -134,7 +134,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=0:7c3aed,50:c026d3,100:0ea5e9" width="100%" />
 </div>
-### 💄 [LIPORA BEAUTY](	lipora.bytexl.live) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
+<h2>### 💄 LIPORA BEAUTY</h2>(	lipora.bytexl.live) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
 
 [![Lipora Beauty Screenshot](./images/Screenshot 2026-06-20 152520.png)](YOUR_LIVE_DEMO_LINK)
 
@@ -199,7 +199,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=0:7c3aed,50:c026d3,100:0ea5e9" width="100%" />
 </div>
-## 🌱 Currently Learning
+<h1>🌱 Currently Learning</h1> 
 
 <div align="center">
 
@@ -220,7 +220,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=0:7c3aed,50:c026d3,100:0ea5e9" width="100%" />
 </div>
-## 📊 GitHub Analytics
+<h1>## 📊 GitHub Analytics</h1>
 
 <div align="center">
 
