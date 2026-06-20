@@ -76,7 +76,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/coding_from_home.gif" alt="Coding GIF" width="250"/>
+      <img src="./images/ChatGPT Image Jun 20, 2026, 03_20_10 PM.png" alt="Coding GIF" width="250"/>
     </td>
     <td width="70%">
       <h2>Hello! I'm <b>Arthimalla Sri Lakshmi</b> 👋</h2>
@@ -102,11 +102,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=0:7c3aed,50:c026d3,100:0ea5e9" width="100%" />
 </div>
+
+
 ## 🚀 TOP PROJECTS 📌
 
-### 🌐 [PORTFOLIO WEBSITE](YOUR_GITHUB_REPO_LINK) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
+### 🌐 [PORTFOLIO WEBSITE](	portfolio44.bytexl.live) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
 
-[![Portfolio Screenshot](./images/portfolio.png)](YOUR_LIVE_DEMO_LINK)
+[![Portfolio Screenshot](./images/Screenshot 2026-06-20 152454.png)](YOUR_LIVE_DEMO_LINK)
 
 **Personal Portfolio Website Showcasing My Skills & Projects**
 
@@ -132,9 +134,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=0:7c3aed,50:c026d3,100:0ea5e9" width="100%" />
 </div>
-### 💄 [LIPORA BEAUTY](YOUR_GITHUB_REPO_LINK) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
+### 💄 [LIPORA BEAUTY](	lipora.bytexl.live) ![Live](https://img.shields.io/badge/Status-🟢%20Live-22c55e?style=flat-square)
 
-[![Lipora Beauty Screenshot](./images/lipora-beauty.png)](YOUR_LIVE_DEMO_LINK)
+[![Lipora Beauty Screenshot](./images/Screenshot 2026-06-20 152520.png)](YOUR_LIVE_DEMO_LINK)
 
 **Modern Beauty & Cosmetics Landing Page**
 
